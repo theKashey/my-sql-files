@@ -1,5 +1,5 @@
 {
-  "name": "mysqlfiles",
+  "name": "my-sql-files",
   "version": "1.0.0",
   "description": "mysql based small files storage",
   "main": "dist/es5/index.js",
@@ -34,6 +34,9 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
-  "repository": ""
+  "keywords": [
+    "mysql",
+    "files"
+  ],
+  "repository": "https://github.com/theKashey/my-sql-files"
 }
